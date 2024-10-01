@@ -15,7 +15,7 @@
 				jsFileLocation: "revolution/js/",
 				sliderLayout: "fullscreen",
 				dottedOverlay: "none",
-				delay: 5000,
+				delay: 50,
 				navigation: {
 					keyboardNavigation: "on",
 					keyboard_direction: "horizontal",
@@ -24,7 +24,7 @@
 					onHoverStop: "on",
 					touch: {
 						touchenabled: "on",
-						swipe_threshold: 75,
+						swipe_threshold: 1,
 						swipe_min_touches: 1,
 						swipe_direction: "horizontal",
 						drag_block_vertical: false
@@ -79,7 +79,7 @@
 				parallax: {
 					type: "scroll",
 					origo: "enterpoint",
-					speed: 400,
+					speed: 100,
 					levels: [5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 46, 47, 48, 49, 50, 55],
 					type: "scroll",
 				},
