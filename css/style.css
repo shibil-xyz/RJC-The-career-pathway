@@ -1107,8 +1107,8 @@ ul.img_icon li {
      src: url(./fonts/Exo2.0-Medium.otf);
    }
    .main{
-     width: 50%;
-     height: 100vh;
+     width: 100%;
+     height: 50vh;
      display: flex;
      justify-content: center;
      align-items: center;
