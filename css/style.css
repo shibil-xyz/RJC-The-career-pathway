@@ -1100,7 +1100,7 @@ ul.img_icon li {
      box-sizing: border-box;
  }
  
- body{
+ bodyy{
      background-color: #eee;
      font-family: "Century Gothic";
      min-height: 100vh;
@@ -1110,7 +1110,7 @@ ul.img_icon li {
  }
  
  
- .title{
+ .titlee{
      text-align: center;
      text-transform: capitalize;
      color: #726a95;
@@ -1118,7 +1118,7 @@ ul.img_icon li {
      position: relative;
  }
  
- .title::after{
+ .titlee::after{
      content: "";
      position: absolute;
      width: 20%; height: 2px;
