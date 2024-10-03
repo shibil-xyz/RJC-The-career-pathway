@@ -1175,3 +1175,19 @@ ul.img_icon li {
    .social-links a:hover{
      color: #0c52a1;
    }
+   @media only screen and (max-width: 767px) {
+     .profile-card{
+          position: relative;
+          font-family: sans-serif;
+          width: 100px;
+          height: 100px;
+          background: #fff;
+          padding: 30px;
+          border-radius: 50%;
+          box-shadow: 0 0 22px #3336;
+          transition: .6s;
+          margin: 0 10px;
+        }
+
+
+}     
