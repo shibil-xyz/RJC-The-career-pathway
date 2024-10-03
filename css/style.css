@@ -1197,8 +1197,8 @@ ul.img_icon li {
           background-color: #0c18b9;
         }
         .profile-card:hover{
-          border-radius: 10px;
-          height: 100px;
+          border-radius: 2px;
+          height: 50px;
         }
         .profile-card .img{
           position: relative;
